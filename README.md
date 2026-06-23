@@ -1,4 +1,4 @@
-# MVP-ML-Analytics
+# MVP-Machine Learning e Analytics
 
 MVP da Disciplina de Machine Learning &amp; Analytics
 Dataset: Student Productivity & Distraction Dataset, extraído da Kaggle.
